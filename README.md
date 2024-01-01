@@ -33,6 +33,9 @@ bash
 To run the application, use the following command in your terminal: `streamlit run app.py`
 Once the application is running, you can upload an image of an invoice and ask queries related to the extracted information.
 
+## Deployment
+The app is deployed on the Streamlit Community Cloud and is hosted at the following URL: https://hargurjeet-gemini-invoice-image-extractor.streamlit.app/
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
