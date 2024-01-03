@@ -1,4 +1,4 @@
-# Invoice Image Extractor
+# OCR-Based Invoice Data Extraction and Processing Tool
 
 This is a data science project that aims to extract information from images of invoices and answer user queries. The application is capable of processing invoices in different languages and is powered by Google's latest LLM Gemini pro vision. The app was built using the Streamlit web interface.
 
